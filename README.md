@@ -1,4 +1,4 @@
-# Practica ESP32 con Sensor de Distancia HC-SR04 con LCD
+# Practica de ESP32 con Sensor de Distancia HC-SR04 con LCD
 Este repositorio muestra como podemos programar una ESP32 con el sensor de distancia HC-SR04  con un LCD.
 
 
@@ -81,17 +81,17 @@ void loop()
 }
 
 ```
-2. Instalar la libreria de  **LiquidCrystal I2C** como se muestra en la siguente imagen.
+2. Instalamos la libreria de  **LiquidCrystal I2C** como se muestra en la siguente imagen. Dando clic en (Library Manager)
 
 ![](https://github.com/Omarcollado23/PRACSENSORDISTANCIA/blob/main/libreria.jpg?raw=true)
 
-3. Hacer la conexion de **HC-SR04** con la **ESP32** y el **LCD** como se muestra en la siguente imagen.
+3. Conectamos el **HC-SR04** con la **ESP32** y el **LCD** como se muestra en la siguente imagen.
 
 ![](https://github.com/Omarcollado23/PRACSENSORDISTANCIA/blob/main/conexiones.jpg?raw=true)
 
 ### Instrucciónes de operación
 
-1. Iniciar simulador.
+1. Iniciamos el simulador.
 2. Visualizar los datos en el monitor serial.
 3. Colocar la distancia dando *doble click* al sensor **HC-SR04** 
 
@@ -99,7 +99,7 @@ void loop()
 
 ## Resultados
 
-Cuando haya funcionado, verás los valores dentro del monitor serial como se muestra en la siguente imagen.
+Cuando haya funcionado, la información obtenida se arrojara en el LCD como se muestra en la siguente imagen.
 
 ![](https://github.com/Omarcollado23/PRACSENSORDISTANCIA/blob/main/datos.jpg?raw=true)
 
@@ -113,4 +113,4 @@ Cuando haya funcionado, verás los valores dentro del monitor serial como se mue
 
 Desarrollado por Ing. Omar Alejandro Collado Carriola
 
-- [GitHub](https://github.com/DiegoJm10)
+- [GitHub](https://github.com/Omarcollado23)
