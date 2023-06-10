@@ -95,16 +95,13 @@ void loop()
 2. Visualizar los datos en el monitor serial.
 3. Colocar la distancia dando *doble click* al sensor **HC-SR04** 
 
-4. Datos arrojados en el **LCD**
-![](https://github.com/Omarcollado23/PRACSENSORDISTANCIA/blob/main/datos.jpg?raw=true)
-    
-
+  
 
 ## Resultados
 
 Cuando haya funcionado, verás los valores dentro del monitor serial como se muestra en la siguente imagen.
 
-https://github.com/DiegoJm10/PracticaDHT/raw/main/Libreria%20DHT.png?raw=true
+![](https://github.com/Omarcollado23/PRACSENSORDISTANCIA/blob/main/datos.jpg?raw=true)
 
 
 ## Evidencias
