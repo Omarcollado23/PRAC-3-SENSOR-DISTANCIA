@@ -104,10 +104,6 @@ Cuando haya funcionado, la información obtenida se arrojara en el LCD como se m
 ![](https://github.com/Omarcollado23/PRACSENSORDISTANCIA/blob/main/datos.jpg?raw=true)
 
 
-## Evidencias
-
-[Video de Youtube](https://https://wokwi.com/)
-
 
 # Créditos
 
