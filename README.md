@@ -83,11 +83,11 @@ void loop()
 ```
 2. Instalar la libreria de  **LiquidCrystal I2C** como se muestra en la siguente imagen.
 
-![](https://github.com/Omarcollado23/PRACTICADHT-LCD/blob/main/DHT22%20libreria.jpg?raw=true)
+![](https://github.com/Omarcollado23/PRACSENSORDISTANCIA/blob/main/libreria.jpg?raw=true)
 
 3. Hacer la conexion de **HC-SR04** con la **ESP32** y el **LCD** como se muestra en la siguente imagen.
 
-![](https://github.com/Omarcollado23/PRACTICADHT-LCD/blob/main/conexiones.jpg?raw=true)
+![](https://github.com/Omarcollado23/PRACSENSORDISTANCIA/blob/main/conexiones.jpg?raw=true)
 
 ### Instrucciónes de operación
 
@@ -96,7 +96,7 @@ void loop()
 3. Colocar la distancia dando *doble click* al sensor **HC-SR04** 
 
 4. Datos arrojados en el **LCD**
-![](https://github.com/Omarcollado23/PRACTICADHT-LCD/blob/main/datos1.1.jpg?raw=true)
+![](https://github.com/Omarcollado23/PRACSENSORDISTANCIA/blob/main/datos.jpg?raw=true)
     
 
 
